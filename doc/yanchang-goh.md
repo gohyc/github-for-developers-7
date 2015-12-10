@@ -1,1 +1,2 @@
 testing
+favorite color: red
